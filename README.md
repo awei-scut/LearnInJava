@@ -3,7 +3,7 @@
 time: 大三下 2019/6 
 created by wzw
 
-email: weizw-scut@gmail.com
+email: weizw.scut@gmail.com
 
 school: 华南理工大学
 
